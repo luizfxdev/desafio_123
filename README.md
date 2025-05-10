@@ -17,6 +17,25 @@ Uma lista de strings, por exemplo: ["a3b4c2", "x0y1z2", "ab3cd4ef5"]
 Saída esperada:
 Para a lista de exemplo, o programa deve retornar: "Planeta Habitável" se a soma for divisível por 12, ou "Planeta Inóspito" caso contrário.
 
+ATENÇÃO:
+
+Nos meus testes, utilizei as entradas abaixo:
+
+HABITÁVEL
+
+a3b4c2,x0y1z2, ab3cd4ef5
+
+a12b,x12y0z0,abc0def0ghi0
+
+m4n8,x2x2x2x2,x4
+
+INÓSPITO
+
+no1numbers3here5,x1y2z3
+
+a3b4c2,x0y1z2,ab3cd4ef6
+
+d7e1f4,g5h3j2,k1l8m6
 
 
 💡 Dica: Considere o poder da simplicidade e engenhosidade robótica para completar esta missão. Boa sorte, cadete espacial! 🚀
